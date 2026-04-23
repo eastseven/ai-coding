@@ -93,7 +93,15 @@
 
 # Task Management
 
-1. **先写计划**：将计划按时间顺序写入 `tasks/todo.md`，使用可勾选的任务项
+1. **先写计划**：将计划按时间顺序写入 `tasks/todo.md`，使用可勾选的任务项。例如：
+```markdown
+## yyyy-MM-dd describe the plan
+
+- [ ] Step 1: describe the task
+- [ ] Step 2: describe the task
+- [x] Step 3: completed task
+```
+
 2. **确认后执行**：中等及以上复杂度任务，HARD-GATE 后才开始实现
 3. **追踪进度**：完成一项立刻标记
 4. **解释变更**：每步给出高层次说明

@@ -107,7 +107,7 @@ Different complexity levels follow different depths of process — incidental co
 ## Task Management
 
 1. **Write the plan first** — Log tasks in chronological order into `tasks/todo.md` using checkable task items, e.g.:
-   ```
+   ```markdown
    ## yyyy-MM-dd describe the plan
    
    - [ ] Step 1: describe the task
